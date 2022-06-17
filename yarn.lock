@@ -2308,22 +2308,22 @@
     glob-to-regexp "^0.3.0"
 
 "@mui/core@^5.0.0-alpha.54":
-  version "5.0.0-alpha.57"
+  version "5.0.0-alpha.58"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
-    "@mui/utils" "^5.2.1"
+    "@mui/utils" "^5.2.2"
     "@popperjs/core" "^2.4.4"
     clsx "^1.1.1"
     prop-types "^15.7.2"
     react-is "^17.0.2"
 
 "@mui/core@link:./packages/mui-base":
-  version "5.0.0-alpha.57"
+  version "5.0.0-alpha.58"
   dependencies:
     "@babel/runtime" "^7.16.3"
     "@emotion/is-prop-valid" "^1.1.1"
-    "@mui/utils" "^5.2.1"
+    "@mui/utils" "^5.2.2"
     "@popperjs/core" "^2.4.4"
     clsx "^1.1.1"
     prop-types "^15.7.2"
@@ -9995,9 +9995,9 @@ jmespath@0.15.0:
   integrity sha1-o/Iiqarp+Wb10nx5ZRDigJF2Qhc=
 
 jpeg-js@^0.4.2:
-  version "0.4.3"
-  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.4.3.tgz#6158e09f1983ad773813704be80680550eff977b"
-  integrity sha512-ru1HWKek8octvUHFHvE5ZzQ1yAsJmIvRdGWvSoKV52XKyuyYA437QWDttXT8eZXDSbuMpHlLzPDZUPd6idIz+Q==
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.4.4.tgz#a9f1c6f1f9f0fa80cdb3484ed9635054d28936aa"
+  integrity sha512-WZzeDOEtTOBK4Mdsar0IqEU5sMr3vSV2RqkAIzUEV2BHnUfKGyswWFPFwK5EeDo93K3FohSHbLAjj0s1Wzd+dg==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
